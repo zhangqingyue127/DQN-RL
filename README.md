@@ -32,7 +32,7 @@ A separate hand-written physics/control demo with gravity and spring-damper cont
 
 | Notebook | Purpose |
 |---|---|
-| `notebooks/final.ipynb` | Final integrated practical notebook with stabilised CartPole DQN, algorithm comparison, 3D/single-pole and two-pole bonus sections, and real-world applications. |
+| `notebooks/final.ipynb` | Final integrated practical notebook with stabilised CartPole DQN, clearer algorithm formulas, 3D/single-pole and two-pole bonus sections, MuJoCo inverted-pendulum reproduction, and rocket/dropped-object landing DQN reproductions. |
 | `notebooks/rl_algorithm_design_comparison.ipynb` | Compare DQN algorithm-design choices on CartPole. |
 | `notebooks/two_wheel_self_balancing_robot.ipynb` | Train a toy two-wheel self-balancing robot with DQN. |
 | `notebooks/rocket_catch_balance_dqn.ipynb` | Train a DQN agent to catch a falling stick and balance it on a cart. |
