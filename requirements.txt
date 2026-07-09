@@ -1,0 +1,10 @@
+gymnasium
+matplotlib
+nbformat
+numpy
+pandas
+pillow
+torch
+tqdm
+stable-baselines3
+mujoco
