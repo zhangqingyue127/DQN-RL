@@ -32,6 +32,7 @@ A separate hand-written physics/control demo with gravity and spring-damper cont
 
 | Notebook | Purpose |
 |---|---|
+| `notebooks/final.ipynb` | Final integrated practical notebook with stabilised CartPole DQN, algorithm comparison, 3D/single-pole and two-pole bonus sections, and real-world applications. |
 | `notebooks/rl_algorithm_design_comparison.ipynb` | Compare DQN algorithm-design choices on CartPole. |
 | `notebooks/two_wheel_self_balancing_robot.ipynb` | Train a toy two-wheel self-balancing robot with DQN. |
 | `notebooks/rocket_catch_balance_dqn.ipynb` | Train a DQN agent to catch a falling stick and balance it on a cart. |
@@ -289,4 +290,3 @@ The single inverted pendulum is easy to reproduce quickly. The double-pendulum t
 - Schaul et al. (2015), *Prioritized Experience Replay*.
 - Kajita et al. (2001), *The 3D Linear Inverted Pendulum Model*.
 - Lee et al. (2025), *Transition Control of a Double-Inverted Pendulum System Using Sim2Real Reinforcement Learning*.
-
